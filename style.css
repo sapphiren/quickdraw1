@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+
+}
+#score {
+    font-size: 20;
+    margin-left: 15px;
+    color:goldenrod;
+}
+#timer {
+    font-size: 20;
+    float:right;
+    margin-right: 15px;
+    color:goldenrod;
+}
+#givenSketch{
+    color:midnightblue;
+}
